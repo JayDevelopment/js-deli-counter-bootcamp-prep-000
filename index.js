@@ -21,5 +21,5 @@ function currentLine (katzDeli) {
     line.push(` `+[i+1]+`. ` + katzDeli[i]);
     i++;
   }
-  
+  if 
 }  
