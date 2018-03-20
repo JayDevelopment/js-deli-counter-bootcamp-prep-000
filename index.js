@@ -18,6 +18,6 @@ var line = []
 function currentLine (katzDeli) {
   let i = 0;
   while(i < katzDeli.length) {
-    line.push()
+    line.push(` `+)
   }
 }  
